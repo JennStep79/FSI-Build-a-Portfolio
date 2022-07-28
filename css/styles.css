@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: fuchsia;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main-section {
+    border: 3px dashed black;
+border-radius: 15px; 
+background-color: darkmagenta;
+color: aliceblue;
+}
+.image {
+    border-style: inset;
+    border-radius: 15px;
+    text-align: center;
+}
+.opening {
+    text-align: center;
+}
