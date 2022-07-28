@@ -25,3 +25,6 @@ color: aliceblue;
 .opening {
     text-align: center;
 }
+.crosshair {
+    cursor: crosshair;
+}
